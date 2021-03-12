@@ -6,5 +6,3 @@ if %PROCESSOR_ARCHITECTURE%==x86 (
 	set arc=x64
 )
 echo:%arc%
-pause
-exit /b
